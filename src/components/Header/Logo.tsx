@@ -8,7 +8,7 @@ export function Logo(){
       letterSpacing="tight"
       width="64"
     >
-      Ton<Text as="span" color="pink.500">yB</Text>rand
+      Dashgo
       <Text as="span" marginLeft="1" color="pink.500">.</Text>
     </Text>
   );
